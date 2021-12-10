@@ -1,0 +1,1 @@
+insert into team (league, name, stadium_capacity, year_founded) values ('Championship', 'Blackburn Rovers', 38000, 1875)

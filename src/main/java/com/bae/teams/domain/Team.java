@@ -31,7 +31,7 @@ public class Team {
 		this.stadiumCapacity = stadiumCapacity;
 		this.league = league;
 	}
-
+	
 	public Team() {
 		super();
 	}
